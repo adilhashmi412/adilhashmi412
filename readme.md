@@ -1,4 +1,4 @@
 ### Adil Hashmi 
 --
-💻MS in CS from Cleveland State University.
+💻MS in CS.
 Java Developer | Android Developer
